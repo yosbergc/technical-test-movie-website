@@ -1,4 +1,4 @@
-function Movie() {
+function Movie({ movieName, movieSrc, year, id, type }) {
     return (<article>
         <img src={movieSrc} alt={movieName} />
         <section className="upper">
