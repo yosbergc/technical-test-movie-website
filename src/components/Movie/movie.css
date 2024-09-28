@@ -1,0 +1,14 @@
+.movie-single img {
+    width: 100%;
+}
+.movie-single h2 {
+    font-size: 18px;
+}
+.movie-type {
+    background-color: rgb(50, 1, 67);
+    width: fit-content;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px 0px;
+    font-weight: 600;
+}

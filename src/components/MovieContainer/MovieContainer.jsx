@@ -9,7 +9,6 @@ function MovieContainer({ movies, error }) {
                 movieName={movie.Title}
                 movieSrc={movie.Poster}
                 year={movie.Year}
-                id={movie.imdbID}
                 type={movie.Type}
                 key={movie.imdbID}
                 />
